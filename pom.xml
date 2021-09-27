@@ -18,13 +18,13 @@
     </properties>
 
     <modules>
-		<module>../pegacorn-fhirplace-persistence</module>
-        <module>../pegacorn-fhirplace-apiservice</module>
+		<module>../pegacorn-fhirplace-im</module>
+        <!--module>../pegacorn-fhirplace-dm</module-->
 
     </modules>
 
-    <name>Pegacorn :: Ladon</name>
-    <description>The Digital-Twin and Master Data Management Framework</description>
+    <name>Pegacorn :: FHIRPlace</name>
+    <description>The FHIR Replication and Persistence Service</description>
 
 
 </project>
